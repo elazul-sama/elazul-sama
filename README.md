@@ -7,3 +7,7 @@ I’m obsessed with understanding how things work so I can build scalable, maint
 
 My core principle is: 
 >The way you do anything is the way you do everything.
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/9ffa2c10-7527-4970-a478-2fb38996dbec/thumbnail" >
+</p>
